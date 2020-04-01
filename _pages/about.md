@@ -15,3 +15,5 @@ I am currently a M.Sc. student in the Accili lab at the University of British Co
 My research interest is in the physiology of excitable cells that contribute to biological rhythms such as the cardiac pacemaking system. My work uses experimental and computational methods to understand the molecular mechanisms of how pacemaker 'HCN' channels open and close. 
 
 For my recent activities, see my [publications]({{ base_path }}/publications) and [talks]({{ base_path }}/talks).
+
+Note: on smaller screens, click the 'Follow' button on the floating bar under the menu to see my contact information and links to my profiles on other platforms. 
