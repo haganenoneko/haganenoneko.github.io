@@ -11,30 +11,24 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Biology, College of William and Mary, 2017
+* M.S. in Cell and Developmental Biology, University of British Columbia, 2020 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2018: Research Assistant
+  * University of British Columbia  
+  * Supervisor: Dr. Eric Accili
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Winter 2013 - Spring 2014: Swimming Instructor
+  * Richmond Kigoos Swim Club, Wayland Swim Club
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Molecular cloning
+* Mammalian tissue culture
+* Whole-cell patch clamp electrophysiology
+* Python 
 
 Publications
 ======
