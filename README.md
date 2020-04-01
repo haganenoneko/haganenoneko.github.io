@@ -1,4 +1,5 @@
 This is Delbert Yip's research website, hosted by Github Pages: https://haganenoneko.github.io
+This repository was forked from https://github.com/academicpages/academicpages.github.io. 
 
 ## To run locally (not on GitHub Pages, to serve on your own computer)
 
