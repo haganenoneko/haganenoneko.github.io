@@ -53,16 +53,12 @@ Skills
 Mentorship and Teaching
 ======
 * University of British Columbia
-  * May 2017 - present: Research mentor (6 students)
-    * Accili lab
-  * October 2018 - present: Research mentor (4 students)
-    * Undergraduate Research Experience Program (REX)
-  * March 2019: Judge
-    * Multidisciplinary Research Conference
-  * January 2019: Panelist
-    * UBC Science Undergraduate Society
+  * May 2017 - present: Research mentor (6 students), Accili lab
+  * October 2018 - present: Research mentor (4 students), Undergraduate Research Experience Program (REX)
+  * March 2019: Judge, Multidisciplinary Research Conference
+  * January 2019: Panelist, UBC Science Undergraduate Society
 * College of William and Mary
-  * August 2017 - December 2017: Teaching Assistant for Biology 310 (Molecular Cell Biology)
+  * August 2017 - December 2017: Teaching Assistant, Biology 310 (Molecular Cell Biology)
   
 Organization Membership
 ======
