@@ -1,0 +1,347 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6730 64-bit) (preloaded format=pdflatex 2018.8.23)  29 DEC 2020 23:37
+entering extended mode
+**./Strang_c8_notes.tex
+(Strang_c8_notes.tex
+LaTeX2e <2018-04-01> patch level 5
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\article.cls"
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\size10.clo"
+File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsmath.sty"
+Package: amsmath 2017/09/02 v2.17a AMS math features
+\@mathmargin=\skip43
+
+For additional information on amsmath, use the `?' option.
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amstext.sty"
+Package: amstext 2000/06/29 v2.01 AMS text
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsgen.sty"
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks14
+\ex@=\dimen103
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsbsy.sty"
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen104
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsopn.sty"
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count88
+LaTeX Info: Redefining \frac on input line 213.
+\uproot@=\count89
+\leftroot@=\count90
+LaTeX Info: Redefining \overline on input line 375.
+\classnum@=\count91
+\DOTSCASE@=\count92
+LaTeX Info: Redefining \ldots on input line 472.
+LaTeX Info: Redefining \dots on input line 475.
+LaTeX Info: Redefining \cdots on input line 596.
+\Mathstrutbox@=\box26
+\strutbox@=\box27
+\big@size=\dimen105
+LaTeX Font Info:    Redeclaring font encoding OML on input line 712.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 713.
+\macc@depth=\count93
+\c@MaxMatrixCols=\count94
+\dotsspace@=\muskip10
+\c@parentequation=\count95
+\dspbrk@lvl=\count96
+\tag@help=\toks15
+\row@=\count97
+\column@=\count98
+\maxfields@=\count99
+\andhelp@=\toks16
+\eqnshift@=\dimen106
+\alignsep@=\dimen107
+\tagshift@=\dimen108
+\tagwidth@=\dimen109
+\totwidth@=\dimen110
+\lineht@=\dimen111
+\@envbody=\toks17
+\multlinegap=\skip44
+\multlinetaggap=\skip45
+\mathdisplay@stack=\toks18
+LaTeX Info: Redefining \[ on input line 2817.
+LaTeX Info: Redefining \] on input line 2818.
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\amssymb.sty"
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\amsfonts.sty"
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks19
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
+Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics-cfg\graphics.cfg"
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics-def\pdftex.def"
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen112
+\Gin@req@width=\dimen113
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\float\float.sty"
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count100
+\float@exts=\toks20
+\float@box=\box28
+\@float@everytoks=\toks21
+\@floatcapt=\box29
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\doublestroke\dsfont.sty"
+Package: dsfont 1995/08/01 v0.1 Double stroke roman fonts
+)
+(Strang_c8_notes.aux)
+\openout1 = `Strang_c8_notes.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+
+("C:\Program Files\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count101
+\scratchdimen=\dimen114
+\scratchbox=\box30
+\nofMPsegments=\count102
+\nofMParguments=\count103
+\everyMPshowfont=\toks22
+\MPscratchCnt=\count104
+\MPscratchDim=\dimen115
+\MPnumerator=\count105
+\makeMPintoPDFobject=\count106
+\everyMPtoPDFconversion=\toks23
+) ("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\epstopdf-base.sty"
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\grfext.sty"
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\kvdefinekeys.sty"
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)))
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\kvoptions.sty"
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\kvsetkeys.sty"
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\etexcmds.sty"
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifluatex.sty"
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\pdftexcmds.sty"
+Package: pdftexcmds 2018/01/30 v0.27 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.sty"
+Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+)
+LaTeX Font Info:    Try loading font information for U+msa on input line 12.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 12.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd"
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+LaTeX Font Info:    Try loading font information for U+dsrom on input line 46.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\doublestroke\udsrom.fd"
+File: Udsrom.fd 1995/08/01 v0.1 Double stroke roman font definitions
+) [1
+
+{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}] [2]
+<figs/Lay_fundamental_subspaces.png, id=24, 405.9165pt x 225.2415pt>
+File: figs/Lay_fundamental_subspaces.png Graphic file (type png)
+<use figs/Lay_fundamental_subspaces.png>
+Package pdftex.def Info: figs/Lay_fundamental_subspaces.png  used on input line
+ 92.
+(pdftex.def)             Requested size: 241.49895pt x 134.00832pt.
+<figs/Strang_projection_lsq.png, id=25, 475.7775pt x 329.43076pt>
+File: figs/Strang_projection_lsq.png Graphic file (type png)
+<use figs/Strang_projection_lsq.png>
+Package pdftex.def Info: figs/Strang_projection_lsq.png  used on input line 119
+.
+(pdftex.def)             Requested size: 241.49895pt x 167.21826pt.
+ [3 <./figs/Lay_fundamental_subspaces.png>] [4 <./figs/Strang_projection_lsq.pn
+g>] [5]
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 234.
+
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\omscmr.fd"
+File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 234.
+ [6]
+<figs/Strang_projection_wlsq.png, id=40, 176.71861pt x 141.3749pt>
+File: figs/Strang_projection_wlsq.png Graphic file (type png)
+<use figs/Strang_projection_wlsq.png>
+Package pdftex.def Info: figs/Strang_projection_wlsq.png  used on input line 24
+2.
+(pdftex.def)             Requested size: 241.49895pt x 193.21431pt.
+ [7 <./figs/Strang_projection_wlsq.png (PNG copy)>]
+<figs/Strang_wsq_weakduality.png, id=45, 390.81038pt x 128.42885pt>
+File: figs/Strang_wsq_weakduality.png Graphic file (type png)
+<use figs/Strang_wsq_weakduality.png>
+Package pdftex.def Info: figs/Strang_wsq_weakduality.png  used on input line 29
+4.
+(pdftex.def)             Requested size: 310.4979pt x 102.0436pt.
+ [8] [9 <./figs/Strang_wsq_weakduality.png (PNG copy)>]
+Overfull \hbox (2.05704pt too wide) in paragraph at lines 340--340
+[]\OT1/cmr/bx/n/12 Minimizing with Con-straints us-ing La-grange's Method 
+ []
+
+<figs/Strang_constrained_springs.png, id=52, 385.74687pt x 171.23846pt>
+File: figs/Strang_constrained_springs.png Graphic file (type png)
+<use figs/Strang_constrained_springs.png>
+Package pdftex.def Info: figs/Strang_constrained_springs.png  used on input lin
+e 345.
+(pdftex.def)             Requested size: 276.00105pt x 122.52863pt.
+[10 <./figs/Strang_constrained_springs.png (PNG copy)>]
+<figs/Strang_constrained_geo.png, id=56, 388.04848pt x 189.42105pt>
+File: figs/Strang_constrained_geo.png Graphic file (type png)
+<use figs/Strang_constrained_geo.png>
+Package pdftex.def Info: figs/Strang_constrained_geo.png  used on input line 36
+8.
+(pdftex.def)             Requested size: 310.4979pt x 151.57172pt.
+ [11 <./figs/Strang_constrained_geo.png (PNG copy)>] [12] [13]
+Overfull \hbox (13.15182pt too wide) detected at line 555
+[]
+ []
+
+[14]
+<figs/Strang_pseudoinverse.png, id=72, 370.38374pt x 211.69087pt>
+File: figs/Strang_pseudoinverse.png Graphic file (type png)
+<use figs/Strang_pseudoinverse.png>
+Package pdftex.def Info: figs/Strang_pseudoinverse.png  used on input line 571.
+
+(pdftex.def)             Requested size: 276.00105pt x 157.75026pt.
+ [15 <./figs/Strang_pseudoinverse.png (PNG copy)>] [16]
+Overfull \hbox (9.71564pt too wide) in paragraph at lines 658--659
+[]\OT1/cmr/m/n/10 If $\OML/cmm/m/it/10 A$ \OT1/cmr/m/n/10 has $\OML/cmm/m/it/10
+ r$ \OT1/cmr/m/n/10 non-zero sin-gu-lar val-ues, then Rank($\OML/cmm/m/it/10 A$
+\OT1/cmr/m/n/10 ) = $\OML/cmm/m/it/10 r$\OT1/cmr/m/n/10 , and $\OMS/cmsy/m/n/10
+ f\OML/cmm/m/it/10 Av[]; Av[]; []  ; Av[]\OMS/cmsy/m/n/10 g$
+ []
+
+[17]
+Overfull \hbox (7.22208pt too wide) detected at line 722
+[]
+ []
+
+[18] [19] [20] [21] (Strang_c8_notes.bbl [22]
+Underfull \hbox (badness 1142) in paragraph at lines 10--14
+[]\OT1/cmr/m/n/10 Gilbert Strang.  \OT1/cmr/m/it/10 Com-pu-ta-tional sci-ence a
+nd en-gi-neer-ing\OT1/cmr/m/n/10 .  Wellesley-
+ []
+
+) [23] (Strang_c8_notes.aux) )
+(\end occurred inside a group at level 1)
+
+### simple group (level 1) entered at line 796 ({)
+### bottom level 
+Here is how much of TeX's memory you used:
+ 2512 strings out of 492973
+ 34357 string characters out of 3135932
+ 104761 words of memory out of 3000000
+ 6322 multiletter control sequences out of 15000+200000
+ 14272 words of font info for 58 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 41i,19n,27p,704b,231s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmb
+x10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
+<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx7.pfb><C:/Progr
+am Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx9.pfb><C:/Program Files/
+MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Program Files/MiKTeX 2
+.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program Files/MiKTeX 2.9/fonts
+/type1/public/amsfonts/cm/cmmi12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/p
+ublic/amsfonts/cm/cmmi7.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/ams
+fonts/cm/cmmi8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/
+cmr10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb
+><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Prog
+ram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr5.pfb><C:/Program Files/
+MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Program Files/MiKTeX 2.9
+/fonts/type1/public/amsfonts/cm/cmr9.pfb><C:/Program Files/MiKTeX 2.9/fonts/typ
+e1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/publi
+c/amsfonts/cm/cmsy7.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfont
+s/cm/cmti10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/doublestroke/ds
+rom10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/doublestroke/dsrom12.
+pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/symbols/msam10.pfb
+>
+Output written on Strang_c8_notes.pdf (23 pages, 999181 bytes).
+PDF statistics:
+ 167 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 36 words of extra memory for PDF output out of 10000 (max. 10000000)
+

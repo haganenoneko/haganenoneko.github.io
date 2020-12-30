@@ -16,6 +16,6 @@ My research interest is in the physiology of excitable cells that contribute to 
 
 For my recent activities, see my [publications]({{ base_path }}/publications) and [talks]({{ base_path }}/talks).
 
-I'm working on a separate blog for documenting my learning progress in public health, epidemiology, and related fields: [haganenoekigakusha](https://haganenoneko.github.io/haganenoekigakusha/). 
+<!-- I'm working on a separate blog for documenting my learning progress in public health, epidemiology, and related fields: [haganenoekigakusha](https://haganenoneko.github.io/haganenoekigakusha/).  -->
 
 Note: on smaller screens, click the 'Follow' button on the floating bar under the menu to see my contact information and links to my profiles on other platforms. 
