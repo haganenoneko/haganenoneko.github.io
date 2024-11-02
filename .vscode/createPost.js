@@ -75,10 +75,10 @@ const createMarkdownFile = async () => {
   // Markdown file content with frontmatter
   const content =
     `---\n` +
-    `layout: single` + 
+    `layout: single\n` + 
     `title: \"${title.replace(/-/g, " ")}\"\n` +
     `date: ${date}\n` +
-    `permalink: ${permalink}/\n` +
+    // `permalink: ${permalink}/\n` +
     (categoriesFormatted ? `${categoriesFormatted}\n` : "") +
     (tagsFormatted ? `${tagsFormatted}\n` : "") +
     `---\n\n` +
