@@ -1,0 +1,27 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "Create New Blog Post",
+            "type": "shell",
+            "command": "node",
+            "args": [
+                ".vscode/createPost.js",
+                "${input:postTitle}"
+            ],
+            "problemMatcher": [],
+            "presentation": {
+                "reveal": "always",
+                "panel": "shared"
+            }
+        }
+    ],
+    "inputs": [
+        {
+            "type": "promptString",
+            "id": "postTitle",
+            "description": "Enter the blog post title (use-hyphens-for-spaces)",
+            "default": "my-new-post"
+        }
+    ]
+}
