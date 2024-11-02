@@ -7,7 +7,7 @@
 	"settings": {
 		"pasteImage.path": "${currentFileDir}/images/",
 		// "pasteImage.basePath": "${projectRoot}/source/",
-		"pasteImage.insertPattern": "<div class=\"image-container\" style=\"margin: 2rem auto; max-width: 800px; text-align: center;\">\n  <img src=\"https: //raw.githubusercontent.com/haganenoneko/haganenoneko.github.io/refs/heads/master/_posts/images/${imageFileName}\" alt=\"${imageFileNameWithoutExt}\" style=\"max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);\" />\n  <p style=\"margin: 0.5rem 0; color: #666; font-style: italic; font-size: 0.9em;\">${imageFileNameWithoutExt}</p>\n</div>",
+		"pasteImage.insertPattern": "<div class=\"image-container\" style=\"margin: 2rem auto; max-width: 800px; text-align: center;\">\n  <img src=\"https://raw.githubusercontent.com/haganenoneko/haganenoneko.github.io/refs/heads/master/_posts/images/${imageFileName}\" alt=\"${imageFileNameWithoutExt}\" style=\"max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);\" />\n  <p style=\"margin: 0.5rem 0; color: #666; font-style: italic; font-size: 0.9em;\">${imageFileNameWithoutExt}</p>\n</div>",
 		"pasteImage.forceUnixStyleSeparator": true,
 		"pasteImage.encodePath": "urlEncode",
 		"pasteImage.prefix": "../_posts/images"

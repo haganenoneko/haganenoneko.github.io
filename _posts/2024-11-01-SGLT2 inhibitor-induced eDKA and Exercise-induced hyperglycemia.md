@@ -29,7 +29,7 @@ This is a rare complication of SGLT2 inhibitor (SGLT2i) use. The mech
 Like with hyperglycemic DKA, management of eDKA should begin with fluid resuscitation to replenish volume. Insulin infusion should follow to stop ketosis, and electrolytes should be monitored to avoid hypokalemia, supplementing with K$^+$ as necessary. The major difference in clinical management between euglycemic and hyperglycemic DKA is that dextrose should be added to the initial IV solution to avoid hypoglycemia.
 
 <div class="image-container" style="margin: 2rem auto; max-width: 800px; text-align: center;">
-  <img src="https: //raw.githubusercontent.com/haganenoneko/haganenoneko.github.io/refs/heads/master/_posts/images/Boron 36-8 Monocarboxylate, dicarboxylate, and tricarboxylate handling by the kidney.png" alt="Boron 36-8 Monocarboxylate, dicarboxylate, and tricarboxylate handling by the kidney" style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
+  <img src="https://raw.githubusercontent.com/haganenoneko/haganenoneko.github.io/refs/heads/master/_posts/images/Boron 36-8 Monocarboxylate, dicarboxylate, and tricarboxylate handling by the kidney.png" alt="Boron 36-8 Monocarboxylate, dicarboxylate, and tricarboxylate handling by the kidney" style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
   <p style="margin: 0.5rem 0; color: #666; font-style: italic; font-size: 0.9em;">Boron 36-8 Monocarboxylate, dicarboxylate, and tricarboxylate handling by the kidney</p>
 </div>
 <!-- Boron 36-8 Monocarboxylate, dicarboxylate, and tricarboxylate handling by the kidney -->
