@@ -10,6 +10,7 @@ permalink: /posts/2024-11-02_SGLT2-inhibitor-induced-eDKA-and-Exercise-induced-h
 categories: []
 ---
 
+**Table of Contents**
 - [SGLT2 inhibition-induced euglycemic DKA](#sglt2-inhibition-induced-euglycemic-dka)
 - [Exercised-induced hypoglycemia in the *absence* of exogenous insulin or medications](#exercised-induced-hypoglycemia-in-the-absence-of-exogenous-insulin-or-medications)
 
@@ -25,7 +26,12 @@ This is a rare complication of SGLT2 inhibitor (SGLT2i) use. The mech
 7. Moreover, note that renal handling of mono-, di-, and tri-carboxylic acids is primarily mediated by secondary Na$^+$-dependent co-transporters (see figure below). Thus, because SGLT2 inhibitors reduce Na$^+$ reabsorption, there is a greater drive for reabsorption of ketone bodies (dicarboxylates) through these transporters. This can exacerbate and/or accelerate the pathogenesis of eDKA.
 
 Like with hyperglycemic DKA, management of eDKA should begin with fluid resuscitation to replenish volume. Insulin infusion should follow to stop ketosis, and electrolytes should be monitored to avoid hypokalemia, supplementing with K$^+$ as necessary. The major difference in clinical management between euglycemic and hyperglycemic DKA is that dextrose should be added to the initial IV solution to avoid hypoglycemia.
-![700](MS1/attachments/Boron%2036-8%20Monocarboxylate,%20dicarboxylate,%20and%20tricarboxylate%20handling%20by%20the%20kidney.png)
+
+<div class="image-container" style="margin: 2rem auto; max-width: 800px; text-align: center;">
+  <img src="../_posts/images/Boron 36-8 Monocarboxylate, dicarboxylate, and tricarboxylate handling by the kidney.png" alt="Boron 36-8 Monocarboxylate, dicarboxylate, and tricarboxylate handling by the kidney" style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
+  <p style="margin: 0.5rem 0; color: #666; font-style: italic; font-size: 0.9em;">Boron 36-8 Monocarboxylate, dicarboxylate, and tricarboxylate handling by the kidney</p>
+</div>
+
 ## Exercised-induced hypoglycemia in the *absence* of exogenous insulin or medications
 
 Exercise alters glucose metabolism through the upregulation of GLUT4 transporters in skeletal muscle and processes that, collectively:
