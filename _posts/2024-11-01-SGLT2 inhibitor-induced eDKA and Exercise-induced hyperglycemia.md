@@ -17,7 +17,9 @@ tags:
 
 
 ## SGLT2 inhibition-induced euglycemic DKA
+
 This is a rare complication of SGLT2 inhibitor (SGLT2i) use. The mechanisms are not well understood, but I describe one that is personally appealing:
+
 1. SGLT2i increases glycosuria, lowering blood glucose
 2. Low blood glucose triggers ↓ insulin and ↑ glucagon
 3. Relative insulin deficiency leads to ↑ hepatic glucose production (offset by glycosuria and lipolysis)
