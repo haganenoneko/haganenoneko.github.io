@@ -10,9 +10,11 @@ redirect_from:
 
 *Welcome to my homepage.* 
 
-I am currently a medical student at the University of British Columbia in Vancouver, Canada. My inicipient interests in medicine currently include radiology and pediatrics. I am more broadly interested in diagnostic and quantitative problems. 
+I am currently a medical student at the University of British Columbia in Vancouver, Canada. My inicipient interests in medicine currently include radiology and pediatrics, although these are highly variable.
 
 In the past, I completed a Master's thesis on the kinetics of cardiac pacemaker channels [[1]](#ref-1), and I briefly supported a project on post-operative decline in children with severe neurological deficits [[2]](#ref-2). 
+
+When not studying or thinking about medicine and science, I enjoy learning Japanese, anime/manga, programming, piano, and exercise.
 
 ## References
 1. <a id="ref-1"></a> Yip, D., W. Wong, L. Kim, Y.-X. Li, and E. Accili. 2020. Exploring the Kinetics of the HCN2 Channel Using a Cyclic Allosteric Four-State Model. Biophysical Journal. 118:271a. doi:10.1016/j.bpj.2019.11.1561.
@@ -26,4 +28,4 @@ For my recent activities, see my [publications]({{ base_path }}/publications) an
 
 <!-- I'm working on a separate blog for documenting my learning progress in public health, epidemiology, and related fields: [haganenoekigakusha](https://haganenoneko.github.io/haganenoekigakusha/).  -->
 
-Note: on smaller screens, click the 'Follow' button on the floating bar under the menu to see my contact information and links to my profiles on other platforms.
+<!-- Note: on smaller screens, click the 'Follow' button on the floating bar under the menu to see my contact information and links to my profiles on other platforms. -->
