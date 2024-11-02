@@ -7,7 +7,6 @@ tags:
   - diabetes
   - random
 permalink: /posts/2024-11-02_SGLT2-inhibitor-induced-eDKA-and-Exercise-induced-hyperglycemia
-categories: []
 ---
 
 **Table of Contents**

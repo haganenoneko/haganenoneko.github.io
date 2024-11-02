@@ -13,43 +13,26 @@ Please contact me at delbert124@gmail.com for a full CV.
 
 Education
 ======
-* B.S. in Biology, College of William and Mary, 2017 (_summa cum laude_)
-* M.S. in Cell and Developmental Biology, University of British Columbia, 2020 (expected)
+- MD Candidate, University of British Columbia
+- MSc in Cell and Developmental Biology, University of British Columbia
+- BSc in Biology, College of William and Mary (_summa cum laude_)
 
 Research experience
 ======
-* September 2018 - present: Graduate student, Accili lab, University of British Columbia
-  
-* Summer 2017, January 2018 - August 2018: Research Assistant, Accili lab, University of British Columbia
-
-* September 2016 - December 2017: Research Assistant, Allison lab, College of William and Mary
+- 2024-2024: Siden Lab, BC Children's Hospital and Canuck Place Children's Hospice
+- 2018-2022: Accili Lab, University of British Columbia
+- 2017-2018: Accili lab, University of British Columbi
+- 2016-2017: Allison lab, College of William and Mary
   
 Awards
 ======
-* September 2019 - September 2020: Frederick Banting & Charles Best Canada Graduate Scholarship
-* September 2018: Faculty of Medicine Graduate Award
-* April 2018: Undergraduate Work-Learn Award 
-* September 2014 - December 2017: Dean's List
-* May 2014: British Columbia Passport to Education 
-  
-Skills
-======
-* Molecular cloning
-* Mammalian tissue culture
-* Electrophysiology
-* Mathematical modelling 
-* Programming (languages in order of decreasing proficiency): Python > Julia >> R > Matlab
+- 2019: Frederick Banting & Charles Best Canada Graduate Scholarship
+- 2018: Faculty of Medicine Graduate Award
+- 2018: NSERC Undergraduate Student Research Award
 
-Mentorship and Teaching
-======
-* University of British Columbia
-  * May 2017 - present: Research mentor, Accili lab
-  * October 2018 - present: Research mentor, Undergraduate Research Experience Program (REX)
-  * March 2019: Judge, Multidisciplinary Research Conference
-  * January 2019: Panelist, UBC Science Undergraduate Society
-* College of William and Mary
-  * August 2017 - December 2017: Teaching Assistant, Biology 310 (Molecular Cell Biology)
-  
-Organization Membership
-======
-* Biophysical Society (September 2019 - present)
+Publications and Presentations
+===
+- Yip, D. 2022. Molecular mechanism of deactivating gating in HCN2 channels. University of British Columbia.
+- Yip, D., and E. Accili. 2021. Kinetic modelling of voltage-dependent gating in funny channels. Prog Biophys Mol Biol. 166:182–188. doi:10.1016/j.pbiomolbio.2021.07.009.
+- Yip, D., W. Wong, L. Kim, Y.-X. Li, and E. Accili. 2020. Exploring the Kinetics of the HCN2 Channel Using a Cyclic Allosteric Four-State Model. Biophysical Journal. 118:271a. doi:10.1016/j.bpj.2019.11.1561.
+
