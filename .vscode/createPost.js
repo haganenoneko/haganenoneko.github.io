@@ -76,7 +76,7 @@ const createMarkdownFile = async () => {
   const content =
     `---\n` +
     `layout: single` + 
-    `title: ${title.replace(/-/g, " ")}\n` +
+    `title: \"${title.replace(/-/g, " ")}\"\n` +
     `date: ${date}\n` +
     `permalink: ${permalink}\n` +
     (categoriesFormatted ? `${categoriesFormatted}\n` : "") +
