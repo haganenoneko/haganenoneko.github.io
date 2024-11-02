@@ -57,7 +57,7 @@ const createMarkdownFile = async () => {
 
   // Create file details
   const date = getDate();
-  const fileName = `${date}_${title}.md`;
+  const fileName = `${date}-${title}.md`;
   const filePath = path.join(POSTS_DIR, fileName);
 
   // Ensure the _posts directory exists
@@ -75,7 +75,6 @@ const createMarkdownFile = async () => {
   // Markdown file content with frontmatter
   const content =
     `---\n` +
-    `layout: single\n` + 
     `title: \"${title.replace(/-/g, " ")}\"\n` +
     `date: ${date}\n` +
     // `permalink: ${permalink}/\n` +
