@@ -1,7 +1,8 @@
 ---
 layout: single
-title: "SGLT2 inhibitor induced eDKA and Exercise induced hyperglycemia"
+title: "SGLT2 inhibitor induced eDKA and Exercise induced hypoglycemia"
 date: 2024-11-01
+permalink: /posts/MS1/SGLT2i-eDKA-exercise-hypoglycemia
 categories:
   - MS1
 tags:
