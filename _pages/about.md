@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Delbert Yip's research homepage"
+title: "Delbert Yip's homepage"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
