@@ -12,13 +12,15 @@ redirect_from:
 
 I am currently a medical student at the University of British Columbia in Vancouver, Canada. My inicipient interests in medicine currently include radiology and pediatrics, although these are highly variable.
 
-In the past, I completed a Master's thesis on the kinetics of cardiac pacemaker channels [[1]](#ref-1), and I briefly supported a project on post-operative decline in children with severe neurological deficits [[2]](#ref-2). 
+In the past, I completed a Master's thesis on the kinetics of cardiac pacemaker channels [\[1](#ref-1)-[3\]](#ref-3), and I briefly supported a project on post-operative decline in children with severe neurological deficits [[4]](#ref-4). 
 
 When not studying or thinking about medicine and science, I enjoy learning Japanese, anime/manga, programming, piano, and exercise.
 
 ## References
-1. <a id="ref-1"></a> Yip, D., W. Wong, L. Kim, Y.-X. Li, and E. Accili. 2020. Exploring the Kinetics of the HCN2 Channel Using a Cyclic Allosteric Four-State Model. Biophysical Journal. 118:271a. doi:10.1016/j.bpj.2019.11.1561.
-2. <a id="ref-2"></a> *In progress*. Post-Operative Decline in Children with Severe Neurological Impairment. 2024. Canuck Place Children’s Hospice. https://www.canuckplace.org/our-care/research/projects/post-operative-decline-in-children-with-severe-neurological-impairment/
+1. <a id="ref-1"></a> Yip, D. 2022. Molecular mechanism of deactivating gating in HCN2 channels. University of British Columbia.
+2. <a id="ref-2"></a> Yip, D., W. Wong, L. Kim, Y.-X. Li, and E. Accili. 2020. Exploring the Kinetics of the HCN2 Channel Using a Cyclic Allosteric Four-State Model. Biophysical Journal. 118:271a. doi:10.1016/j.bpj.2019.11.1561.
+3. <a id="ref-3"></a> Yip, D., and E. Accili. 2021. Kinetic modelling of voltage-dependent gating in funny channels. Prog Biophys Mol Biol. 166:182–188. doi:10.1016/j.pbiomolbio.2021.07.009.
+4. <a id="ref-4"></a> *In progress*. Post-Operative Decline in Children with Severe Neurological Impairment. 2024. Canuck Place Children’s Hospice. https://www.canuckplace.org/our-care/research/projects/post-operative-decline-in-children-with-severe-neurological-impairment/
 
 <!-- I am currently a M.Sc. student in the Accili lab at the University of British Columbia (Vancouver, Canada). Our lab is part of the [Cardiovascular Research Group](https://crg.lsi.ubc.ca/) in the [Department of Cellular and Physiological Sciences](https://cps.med.ubc.ca/). 
 
