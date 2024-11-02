@@ -1,12 +1,14 @@
 ---
 title: SGLT2 inhibitor induced eDKA and Exercise induced hyperglycemia
 date: 2024-11-02
+permalink: /posts/2024-11-02_SGLT2-inhibitor-induced-eDKA-and-Exercise-induced-hyperglycemia
+categories:
+  - MS1
 tags:
   - MS1
   - MS1_W11
   - diabetes
   - random
-permalink: /posts/2024-11-02_SGLT2-inhibitor-induced-eDKA-and-Exercise-induced-hyperglycemia
 ---
 
 **Table of Contents**
