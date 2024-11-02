@@ -14,6 +14,25 @@
                 "reveal": "always",
                 "panel": "shared"
             }
+        },
+        {
+            "label": "Link References",
+            "type": "shell",
+            "command": "node",
+            "args": [
+                "${workspaceFolder}/.vscode/linkReferences.js"
+            ],
+            "problemMatcher": [],
+            "presentation": {
+                "reveal": "always",
+                "panel": "shared",
+                "clear": true
+            },
+            "options": {
+                "env": {
+                    "VSCODE_FILE": "${file}"
+                }
+            }
         }
     ],
     "inputs": [
