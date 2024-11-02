@@ -39,7 +39,7 @@ Hence, increased sympathetic tone can stimulate renin release *and* vasoconstric
 - Although the JG cells themselves may not produce contractile force, constriction of the afferent arteriole would tend to decrease renal blood flow and eventually inhibit renin release via the baroreceptor reflex.
 - If so, it would seem that sympathetic control of renin release is a futile cycle, stimulating renin release on the one hand while indirectly inhibiting renin secretion through vasoconstriction on the other.
 
-This 'paradox' has been explained by distinguishing between two regimes of renal sympathetic nervous activity (RSNA).  In lecture, we learned that this effect is dependent on the 'strength' of sympathetic stimulation: 'mild' RSNA stimulates renin release and renal tubular sodium reabsorption without affecting RBF and GFR, whereas 'strong' RSNA results in vasoconstriction. [2](https://sci-hub.ru/10.1152/ajpregu.00258.2005)
+This 'paradox' has been explained by distinguishing between two regimes of renal sympathetic nervous activity (RSNA).  In lecture, we learned that this effect is dependent on the 'strength' of sympathetic stimulation: 'mild' RSNA stimulates renin release and renal tubular sodium reabsorption without affecting RBF and GFR, whereas 'strong' RSNA results in vasoconstriction. [[2]](#ref-2)(https://sci-hub.ru/10.1152/ajpregu.00258.2005)
 
 <div class="image-container" style="margin: 2rem auto; max-width: 800px; text-align: center;">
   <img src="https://raw.githubusercontent.com/haganenoneko/haganenoneko.github.io/refs/heads/master/_posts/images/Relationship between frequency of renal nerve stimulation and the magnitutde of response of renin secretion, sodium excretion, and renal blood flow.png" alt="Relationship between frequency of renal nerve stimulation and the magnitutde of response of renin secretion, sodium excretion, and renal blood flow" style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
@@ -52,7 +52,7 @@ If only high, but not low, frequency RSNA causes vasoconstriction, we can predic
 3. However, high RSNA puts these vessels into a contracted state, which limits the ability of RBF autoregulation to counteract sudden increases in AP.
 4. Consequently, larger increases in AP are required to initiate autoregulation, resulting in a narrowed autoregulatory range (see previous section).
 
-This distinction between vasoconstrictor and non-vasoconstrictor RSNA has been elegantly demonstrated via denervation experiments in rats. In animal studies, renal denervation has been consistently shown to ameliorate hypertension (e.g. [2], [6]), whereas a [controlled trial of renal denervation for resistant hypertension in humans](https://pubmed.ncbi.nlm.nih.gov/24678939/) did not show significant reduction in BP. This may be due to incomplete denervation or 're-programming' of sympathetic stimulation, as the trial relied on pharmacological depletion of NE for denervation, and the extent of denervation was not confirmed, e.g. by histology.
+This distinction between vasoconstrictor and non-vasoconstrictor RSNA has been elegantly demonstrated via denervation experiments in rats. In animal studies, renal denervation has been consistently shown to ameliorate hypertension (e.g. [[2]](#ref-2), [[6]](#ref-6)), whereas a [controlled trial of renal denervation for resistant hypertension in humans](https://pubmed.ncbi.nlm.nih.gov/24678939/) did not show significant reduction in BP. This may be due to incomplete denervation or 're-programming' of sympathetic stimulation, as the trial relied on pharmacological depletion of NE for denervation, and the extent of denervation was not confirmed, e.g. by histology.
 
 <div class="image-container" style="margin: 2rem auto; max-width: 800px; text-align: center;">
   <img src="https://raw.githubusercontent.com/haganenoneko/haganenoneko.github.io/refs/heads/master/_posts/images/Effect of renal denervation on the transfer function between AP and RBF.png" alt="Effect of renal denervation on the transfer function between AP and RBF" style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
@@ -60,10 +60,10 @@ This distinction between vasoconstrictor and non-vasoconstrictor RSNA has been e
 </div>
 
 ## References
-1. Boron, 2e
-2. [Physiology in perspective: The Wisdom of the Body. Neural control of the kidney. American Journal of Physiology-Regulatory, Integrative and Comparative Physiology, 289(3), R633–R641 | 10.1152/ajpregu.00258.2005](https://sci-hub.ru/10.1152/ajpregu.00258.2005)
-3. [Astrocytes Contribute to Angiotensin II Stimulation of Hypothalamic Neuronal Activity and Sympathetic Outflow | Hypertension (ahajournals.org)](https://www.ahajournals.org/doi/10.1161/HYPERTENSIONAHA.116.07747)
-4. [Integration of Hypernatremia and Angiotensin II by the Organum Vasculosum of the Lamina Terminalis Regulates Thirst | Journal of Neuroscience (jneurosci.org)](https://www.jneurosci.org/content/40/10/2069)
-5. [Structural basis for reduced glomerular filtration capacity in nephrotic humans - PubMed (nih.gov)](https://pubmed.ncbi.nlm.nih.gov/8083359/)
-6. [Long-term renal sympathetic denervation ameliorates renal fibrosis and delays the onset of hypertension in spontaneously hypertensive rats - PMC (nih.gov)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6325514/)
-7. [A controlled trial of renal denervation for resistant hypertension - PubMed](https://pubmed.ncbi.nlm.nih.gov/24678939/)
+1. <a id="ref-1"></a> Boron, 2e
+2. <a id="ref-2"></a> [Physiology in perspective: The Wisdom of the Body. Neural control of the kidney. American Journal of Physiology-Regulatory, Integrative and Comparative Physiology, 289(3), R633–R641, 10.1152/ajpregu.00258.2005](https://sci-hub.ru/10.1152/ajpregu.00258.2005)
+3. <a id="ref-3"></a> [Astrocytes Contribute to Angiotensin II Stimulation of Hypothalamic Neuronal Activity and Sympathetic Outflow, Hypertension (ahajournals.org)](https://www.ahajournals.org/doi/10.1161/HYPERTENSIONAHA.116.07747)
+4. <a id="ref-4"></a> [Integration of Hypernatremia and Angiotensin II by the Organum Vasculosum of the Lamina Terminalis Regulates Thirst, Journal of Neuroscience (jneurosci.org)](https://www.jneurosci.org/content/40/10/2069)
+5. <a id="ref-5"></a> [Structural basis for reduced glomerular filtration capacity in nephrotic humans - PubMed (nih.gov)](https://pubmed.ncbi.nlm.nih.gov/8083359/)
+6. <a id="ref-6"></a> [Long-term renal sympathetic denervation ameliorates renal fibrosis and delays the onset of hypertension in spontaneously hypertensive rats - PMC (nih.gov)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6325514/)
+7. <a id="ref-7"></a> [A controlled trial of renal denervation for resistant hypertension - PubMed](https://pubmed.ncbi.nlm.nih.gov/24678939/)
