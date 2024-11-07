@@ -28,7 +28,7 @@ Let us unpack this definition, beginning with the word “**disturbances**.” T
 <div class="image-container" style="margin: 2rem auto; max-width: 800px; text-align: center;">
   <img src="https://raw.githubusercontent.com/haganenoneko/haganenoneko.github.io/refs/heads/master/_posts/images/peoplewave.gif" alt="A periodic wave" style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
   <p style="margin: 0.5rem 0; color: #666; font-style: italic; font-size: 0.9em;">
-  <i> <a href=http://www.acs.psu.edu/drussell/Demos/waves-intro/peoplewave.gif>Source. </a></i>
+  <i> </i>
   </p>
 </div>
 
@@ -37,7 +37,7 @@ Next, a wave “**periodic**“ because it contains features that repeat after s
 <div class="image-container" style="margin: 2rem auto; max-width: 800px; text-align: center;">
   <img src="https://raw.githubusercontent.com/haganenoneko/haganenoneko.github.io/refs/heads/master/_posts/images/2024-11-06-22-26-34.png" alt="2024-11-06-22-26-34" style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
   <p style="margin: 0.5rem 0; color: #666; font-style: italic; font-size: 0.9em;">
-  <i> <a href=https://ilp-media.wgbh.org/filer_public/e9/62/e962c2fb-1cdd-4fc3-881c-8c1fd2af5b91/buac20-img-wavecharacteristics.png>Source. </a></i>
+  <i> </i>
   </p>
 </div>
 
@@ -48,7 +48,7 @@ Since they are periodic, any point or section of a wave ‘repeats’ over time,
 <div class="image-container" style="margin: 2rem auto; max-width: 800px; text-align: center;">
   <img src="https://raw.githubusercontent.com/haganenoneko/haganenoneko.github.io/refs/heads/master/_posts/images/2024-11-06-22-27-41.png" alt="Wave phase" style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
   <p style="margin: 0.5rem 0; color: #666; font-style: italic; font-size: 0.9em;">
-  <i>A phase is the position of a wave at a point in time (instant) on a waveform cycle. It provides a measurement of exactly where the wave is positioned within its cycle.  <a href=https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/3_phase_AC_waveform.svg/1024px-3_phase_AC_waveform.svg.png>Source.</a></i>
+  <i>A phase is the position of a wave at a point in time (instant) on a waveform cycle. It provides a measurement of exactly where the wave is positioned within its cycle.  </i>
   </p>
 </div>
 
@@ -59,14 +59,14 @@ As a wave travels and spreads into space, points of equal phase (“equiphase”
 <div class="image-container" style="margin: 2rem auto; max-width: 800px; text-align: center;">
   <img src="https://raw.githubusercontent.com/haganenoneko/haganenoneko.github.io/refs/heads/master/_posts/images/Wavefronts and rays.png" alt="Wavefronts and rays" style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
   <p style="margin: 0.5rem 0; color: #666; font-style: italic; font-size: 0.9em;">
-  <i>As waves move further from their source, the wavefronts become larger and the rays become straighter. At sufficiently far distance from the source, a similar-sized piece of the wavefront that was initially very curved (a) now appears flat (b). <a href=https://physicscatalyst.com/optics/fig1_int.png>Source. </a></i>
+  <i>As waves move further from their source, the wavefronts become larger and the rays become straighter. At sufficiently far distance from the source, a similar-sized piece of the wavefront that was initially very curved (a) now appears flat (b). </i>
   </p>
 </div>
 
 <div class="image-container" style="margin: 2rem auto; max-width: 800px; text-align: center;">
   <img src="https://raw.githubusercontent.com/haganenoneko/haganenoneko.github.io/refs/heads/master/_posts/images/Two-dimensional wavefronts.png" alt="Two-dimensional wavefronts" style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
   <p style="margin: 0.5rem 0; color: #666; font-style: italic; font-size: 0.9em;">
-  <i>A drawing of two-dimensional wavefronts. Concentric circles are crests (solid lines) and troughs (dashed lines) emanate from the source at the center. The wavefronts spread as they move away from the source, like ripples in a pond.  <a href=https://files.mtstatic.com/site_4539/43137/0?Expires=1702163313&Signature=sBFueuDkdVe2AR-FvGTyeOLeaQ9jEUwrr4gIpPvWIbRxpBAv1RdJTRyvcEYa2rWKv1s1jW0IaZQWWtxPXzPUhNGv7DjOIpraGVLNM7fvmcuzo-gmuBGNxQORSn0Zk9eQ-E76q1J1x2lkznQ3NMu9wb7iRBfCtcfmfKs9vVK2RTA_&Key-Pair-Id=APKAJ5Y6AV4GI7A555NA>Source. </a></i>
+  <i>A drawing of two-dimensional wavefronts. Concentric circles are crests (solid lines) and troughs (dashed lines) emanate from the source at the center. The wavefronts spread as they move away from the source, like ripples in a pond.  </i>
   </p>
 </div>
 
@@ -84,13 +84,11 @@ Here, we will focus on the first effect, geometrical expansion. Dissipative effe
 <div class="image-container" style="margin: 2rem auto; max-width: 800px; text-align: center;">
   <img src="https://raw.githubusercontent.com/haganenoneko/haganenoneko.github.io/refs/heads/master/_posts/images/2d_wave.gif" alt="Two-dimensional wavefronts" style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
   <p style="margin: 0.5rem 0; color: #666; font-style: italic; font-size: 0.9em;">
-  <i>(Top) Propagation of circular wavefronts at radii of wavelengths 1, 2, and 3. (Bottom) The amplitude of oscillating particles in the medium at wavefront radii of wavelengths 1, 2, and 3. <b>This is an animation that will not render in a PDF file. To see the animation, please go to: </b><a href=https://phys.libretexts.org/@api/deki/files/15058/2d_wave.gif?revision=4>Source. </a></i>
+  <i>(Top) Propagation of circular wavefronts at radii of wavelengths 1, 2, and 3. (Bottom) The amplitude of oscillating particles in the medium at wavefront radii of wavelengths 1, 2, and 3. <b>This is an animation that will not render in a PDF file. To see the animation, please go to: </b></i>
   </p>
 </div>
 
 Consider a wave spreading outwards in two dimensions, like a circular ripple on a pond caused by a pebble. Each point in the medium contains a particle and, as the ripple propagates outward, it causes more and more particles to oscillate. Since the medium is uniform (water), particles are equally spaced everywhere so that the number of particles that the circular wave (ripple) encounters at any distance from the source (where the pebble was dropped) is proportional to its circumference: as the wave travels outward, the ripple grows bigger, and more particles oscillate.
-
-<div><figure style=display: inline-block; vertical-align: top; text-align: center; margin: auto; ><center><img src=https://i.imgur.com/u2iY6ZH.png  width=500/></center></figure><figcaption style=text-align: left; ><i>Waves spreading in 2D (left) and 3D (right). If the same amount of energy is distributed across a larger area, the intensity is necessarily lower at larger distances. <a href=https://i.imgur.com/u2iY6ZH.png >Source. </a></i></figcaption></div>
 
 <div class="image-container" style="margin: 2rem auto; max-width: 800px; text-align: center;">
   <img src="https://raw.githubusercontent.com/haganenoneko/haganenoneko.github.io/refs/heads/master/_posts/images/Waves spreading in 2D and 3D.png" alt="Waves spreading in 2D and 3D" style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
@@ -100,9 +98,10 @@ Consider a wave spreading outwards in two dimensions, like a circular ripple on 
 </div>
 
 We can quantify the energy lost with wave propagation as follows:
+
 $$
-\begin{align} 
-\text{Total energy of the system} \quad E_{tot} 
+\begin{align*} 
+E_{tot} 
 	&= \text{kinetic energy} \ + \text{(elastic) potential energy}
 	\\
 	&= \frac{\text{mass} \times \text{velocity}^2}{2} 
@@ -110,13 +109,16 @@ $$
 	\\
 	&= \frac{mv^2}{2} + \frac{kx^2}{2}
 	\\
-\end{align}
+\end{align*}
 $$
+
 Now consider what happens when an oscillating particle is maximally displaced. This is analogous to an object being thrown vertically: the object stops (zero velocity) when it reaches maximum height when all initial kinetic energy has been transformed into potential energy. Since amplitude (A) is defined as the maximum displacement, the particle experiences zero velocity at $x=A$, so $E_{tot}$ reduces to:
+
 $$
 E_{tot} = \frac{kA^2}{2}
 \implies E_{tot} \ \text{(energy per oscillator)} \propto A^2
 $$
+
 $E_{tot}$ being proportional to the square of oscillation amplitude tells us that, if $E_{tot}$ is halved, the oscillation amplitude will decrease by a factor of $\sqrt{2}$. Consequently, as the wave propagates outwards, the same initial energy becomes shared among a greater number of oscillators (particles). 
 
 Above, we established that the number of oscillators is proportional to the circumference. Since the circumference of a wave is directly proportional to its radius, amplitude is proportional to the inverse square root of radius:
@@ -136,14 +138,15 @@ Importantly, *wave velocity does not change* as a wave travels through a medium,
 If wave velocity is constant, then the total amount of energy in the wave must be the same at all distances from the source (radii of ripples). Thus, as it propagates, the total energy in the wave does not change, but its *energy density* does: a circular wavefront with smaller radii distributes the same amount of energy over a smaller circumference. Consequently, energy density decreases as the wave propagates outward, which explains why light and sound fade with distance. 
 
 If, as above, we measure the amount of energy passing through a region of the wave (energy density), but over a specific *time interval*, we now have the *power density* or “**intensity**” of the wave in that region of space and interval of time. Mathematically,
+
 $$
-\begin{align} 
+\begin{align*} 
 	\text{Intensity(radius)} &= \frac{\text{Power}}{\text{Circumference}}
 	\\[5pt]
 	&= \frac{\text{Energy/Time}}{\text{Circumference}} 
 	\\[5pt]
 	I(r) &= \frac{\Delta E/\Delta t}{2\pi r}
-\end{align} 
+\end{align*} 
 $$
 
 Taking our results above, we find that intensity is proportional to the square of amplitude and inversely proportional to radius:
@@ -164,7 +167,7 @@ Diffraction occurs when waves encounter an obstacle or opening. The extent and n
 <div class="image-container" style="margin: 2rem auto; max-width: 800px; text-align: center;">
   <img src="https://raw.githubusercontent.com/haganenoneko/haganenoneko.github.io/refs/heads/master/_posts/images/Diffraction of water waves through a slit.png" alt="Diffraction of water waves through a slit" style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
   <p style="margin: 0.5rem 0; color: #666; font-style: italic; font-size: 0.9em;">
-  <i>Diffraction of water waves through a slit. In a large slit (left), the wavelength is relatively small, and does not diffract much, producing very few waves on the left and right sides beyond the slit. When the slit is small (right), the waves diffract more. <a href=https://qph.cf2.quoracdn.net/main-qimg-ff8a2b15426bddb50bff1e14bbb3abb0-pjlq>Source. </a></i>
+  <i>Diffraction of water waves through a slit. In a large slit (left), the wavelength is relatively small, and does not diffract much, producing very few waves on the left and right sides beyond the slit. When the slit is small (right), the waves diffract more. </i>
   </p>
 </div>
 
@@ -182,7 +185,7 @@ For **high-frequency** sounds (2-20 kHz), the most important criterion is the in
   <img src="https://raw.githubusercontent.com/haganenoneko/haganenoneko.github.io/refs/heads/master/_posts/images/Interaural differences used to distinguish low and high frequency sounds.png" alt="Interaural differences used to distinguish low and high frequency sounds" style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
   <p style="margin: 0.5rem 0; color: #666; font-style: italic; font-size: 0.9em;">
   <i>Interaural differences used to distinguish low and high frequency sounds
-  <a href=https://www.researchgate.net/profile/Volker-Willert/publication/6758197/figure/fig1/AS:277895172902917@1443266780430/Principles-of-the-appearance-of-interaural-time-and-interaural-level-differences-ITD-and.png>Source. </a>
+  
   </i></p>
 </div>
 
@@ -200,7 +203,7 @@ $$
   <img src="https://raw.githubusercontent.com/haganenoneko/haganenoneko.github.io/refs/heads/master/_posts/images/Angles of sound heard along the horizontal (azimuth) and vertical (elevation) planes..png" alt="Angles of sound heard along the horizontal (azimuth) and vertical (elevation) planes." style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
   <p style="margin: 0.5rem 0; color: #666; font-style: italic; font-size: 0.9em;">
   <i>Angles of sound heard along the horizontal (azimuth) and vertical (elevation) planes.
-  <a href=https://people.ece.cornell.edu/land/courses/ece5760/FinalProjects/f2006/KimDorset/ECE576/Fig1.jpg >Source. </a>
+  
   </i>
   </p>
 </div> 
@@ -213,7 +216,7 @@ I would like you to think about implications and further ways to test sound loca
 <div class="image-container" style="margin: 2rem auto; max-width: 800px; text-align: center;">
   <img src="https://raw.githubusercontent.com/haganenoneko/haganenoneko.github.io/refs/heads/master/_posts/images/Asymmetry of front-back localization.png" alt="Asymmetry of front-back localization" style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
   <p style="margin: 0.5rem 0; color: #666; font-style: italic; font-size: 0.9em;">
-  <i>Sounds coming from the front-right and back-right sound similar in terms of intensity and timing. <a href=https://chris-said.io/assets/2018_cone_of_confusion/front_right_and_back_right.png>Source. </a></i>
+  <i>Sounds coming from the front-right and back-right sound similar in terms of intensity and timing. </i>
   </p>
 </div>
 
@@ -222,7 +225,8 @@ The symmetry of the head and ears produces a **cone of confusion** (see below) �
 <div class="image-container" style="margin: 2rem auto; max-width: 800px; text-align: center;">
   <img src="https://raw.githubusercontent.com/haganenoneko/haganenoneko.github.io/refs/heads/master/_posts/images/Cone of confusion.png" alt="Cone of confusion" style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
   <p style="margin: 0.5rem 0; color: #666; font-style: italic; font-size: 0.9em;">
-  <i>The “cone of confusion” is a conical surface that extends out from the ear. Sounds originating from different locations on this surface all have the same interaural level difference and interaural time difference, so information provided by these cues is ambiguous. Adapted from <a href=https://www.psychology-lexicon.com/cms/glossary/36-glossary-c/8151-cone-of-confusion.html>psychology-lexicon</a>. <a href=https://d3i71xaburhd42.cloudfront.net/a4724de2d29c998e33e92f96eaf53e615ce3fb00/19-Figure2.3-1.png>Source. </a></i>
+  <i>The “cone of confusion” is a conical surface that extends out from the ear. Sounds originating from different locations on this surface all have the same interaural level difference and interaural time difference, so information provided by these cues is ambiguous. 
+  </i>
   </p>
 </div>
 
@@ -233,7 +237,7 @@ While the ambiguities are negligible when the sound is very close or very far, w
 <div class="image-container" style="margin: 2rem auto; max-width: 800px; text-align: center;">
   <img src="https://raw.githubusercontent.com/haganenoneko/haganenoneko.github.io/refs/heads/master/_posts/images/Head movement shifts the interaural axis.png" alt="Head movement shifts the interaural axis" style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
   <p style="margin: 0.5rem 0; color: #666; font-style: italic; font-size: 0.9em;">
-  <i>Head movement can be used to localize a sound source by shifting the interaural axis. <a href=https://d3i71xaburhd42.cloudfront.net/a4724de2d29c998e33e92f96eaf53e615ce3fb00/20-Figure2.4-1.png>Source. </a></i>
+  <i>Head movement can be used to localize a sound source by shifting the interaural axis. </i>
   </p>
 </div>
 
@@ -242,7 +246,7 @@ However, even without moving our heads, we can still distinguish sounds on the f
 <div class="image-container" style="margin: 2rem auto; max-width: 800px; text-align: center;">
   <img src="https://raw.githubusercontent.com/haganenoneko/haganenoneko.github.io/refs/heads/master/_posts/images/Reflection of sound waves off the ear provides cues.png" alt="Reflection of sound waves off the ear provides cues" style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
   <p style="margin: 0.5rem 0; color: #666; font-style: italic; font-size: 0.9em;">
-  <i>Reflection of sound waves off the pinna and ridges (1, 2) provide cues on horizontal and vertical sound direction.  <a href=https://www.researchgate.net/publication/344453802/figure/fig5/AS:942225085173760@1601655374056/The-pinna-and-reflecting-ridges-1-and-2-that-determine-horizontal-and-vertical-sound.png>Source. </a></i>
+  <i>Reflection of sound waves off the pinna and ridges (1, 2) provide cues on horizontal and vertical sound direction.  </i>
   </p>
 </div>
 
@@ -251,7 +255,7 @@ As sound waves strike a listener, they diffract and reflect around the head and 
 <div class="image-container" style="margin: 2rem auto; max-width: 800px; text-align: center;">
   <img src="https://raw.githubusercontent.com/haganenoneko/haganenoneko.github.io/refs/heads/master/_posts/images/HRTF and cone of confusion.png" alt="HRTF and cone of confusion" style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
   <p style="margin: 0.5rem 0; color: #666; font-style: italic; font-size: 0.9em;">
-  <i>The cone wraps around the head along the vertical plane, hence the repeating label “Back” on the graph on the right. If you had this HRTF (right), you might think a sound is coming from the front if it has more high frequency power than you’d expect. <a href=https://chris-said.io/assets/2018_cone_of_confusion/cone_and_hrtf.png>Source. </a></i>
+  <i>The cone wraps around the head along the vertical plane, hence the repeating label “Back” on the graph on the right. If you had this HRTF (right), you might think a sound is coming from the front if it has more high frequency power than you’d expect. </i>
   </p>
 </div>
 
