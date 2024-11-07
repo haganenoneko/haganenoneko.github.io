@@ -2,6 +2,7 @@
 title: "Basic Review of Wave Physics (No Math)"
 date: 2024-11-07
 categories:
+  - MS1
   - Extra
 tags:
   - MS1
@@ -24,33 +25,50 @@ Like light, sound is produced by waves as they move through a medium. A wave can
 
 Let us unpack this definition, beginning with the word “**disturbances**.” To put this another way, a wave is a dissipation of energy through a medium. As it moves, the energy is lost as heat and to the particles in the medium. While the particles may experience local oscillations, they do not themselves move *with*, or ‘follow,’ the wave. To see this, consider the ‘wave’ done by crowds in large sporting events (below); a group of people jumps up and sits back down, and nearby people follow suit. Soon, the wave spreads around the whole stadium. Yet, nobody in the stadium was carried around with the wave – they all remain at their original seats.
 
-<div><figure style=display: inline-block; vertical-align: top; text-align: center; margin: auto; ><center><img src=http://www.acs.psu.edu/drussell/Demos/waves-intro/peoplewave.gif width=500/></center></figure><figcaption style=text-align: left; ><i> <a href=http://www.acs.psu.edu/drussell/Demos/waves-intro/peoplewave.gif>Source. </a></i></figcaption></div>
+<div class="image-container" style="margin: 2rem auto; max-width: 800px; text-align: center;">
+  <img src="https://raw.githubusercontent.com/haganenoneko/haganenoneko.github.io/refs/heads/master/_posts/images/peoplewave.gif" alt="A periodic wave" style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
+  <p style="margin: 0.5rem 0; color: #666; font-style: italic; font-size: 0.9em;">
+  <i> <a href=http://www.acs.psu.edu/drussell/Demos/waves-intro/peoplewave.gif>Source. </a></i>
+  </p>
+</div>
 
 Next, a wave “**periodic**“ because it contains features that repeat after specific periods of time. These periodic structures include amplitude, period, frequency, and waveform. Furthermore, despite the complex appearance of wave phenomena, such as ripples over water, most waves can be described by concise mathematical formulae. The simplest are sinusoids, which can be described by combinations of sine and cosine functions.
 
-<div><figure style=display: inline-block; vertical-align: top; text-align: center; margin: auto; ><center><img src=https://ilp-media.wgbh.org/filer_public/e9/62/e962c2fb-1cdd-4fc3-881c-8c1fd2af5b91/buac20-img-wavecharacteristics.png width=500/></center></figure><figcaption style=text-align: left; ><i> <a href=https://ilp-media.wgbh.org/filer_public/e9/62/e962c2fb-1cdd-4fc3-881c-8c1fd2af5b91/buac20-img-wavecharacteristics.png>Source. </a></i></figcaption></div>
+<div class="image-container" style="margin: 2rem auto; max-width: 800px; text-align: center;">
+  <img src="https://raw.githubusercontent.com/haganenoneko/haganenoneko.github.io/refs/heads/master/_posts/images/2024-11-06-22-26-34.png" alt="2024-11-06-22-26-34" style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
+  <p style="margin: 0.5rem 0; color: #666; font-style: italic; font-size: 0.9em;">
+  <i> <a href=https://ilp-media.wgbh.org/filer_public/e9/62/e962c2fb-1cdd-4fc3-881c-8c1fd2af5b91/buac20-img-wavecharacteristics.png>Source. </a></i>
+  </p>
+</div>
 
 ### How waves move
 
 Since they are periodic, any point or section of a wave ‘repeats’ over time, and the elapsed time or distance between repeat instances given by the wavelength and period, respectively. Thus, to track the movement of wave, we can pick any point or region – this is called a ‘[phase](https://en.wikipedia.org/wiki/Phase_(waves))’ and commonly denoted with a capital *phi*, $\Phi$. For example, the cosine and sine functions are equivalent up to a finite phase difference: $sin(\theta) \equiv \cos \left( \theta+\frac{\pi}{2} \right)$.
 
-<div>
-	<figure style=“display: inline-block; vertical-align: top;; text-align: center; margin: auto;”>
-		<center>
-		<img src=https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/3_phase_AC_waveform.svg/1024px-3_phase_AC_waveform.svg.png width=500/>
-		</center>
-	</figure>
-	<figcaption style=“text-align: center;”><i>A phase is the position of a wave at a point in time (instant) on a waveform cycle. It provides a measurement of exactly where the wave is positioned within its cycle.  <a href=https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/3_phase_AC_waveform.svg/1024px-3_phase_AC_waveform.svg.png>Source.</a></i>
-	</figcaption>
+<div class="image-container" style="margin: 2rem auto; max-width: 800px; text-align: center;">
+  <img src="https://raw.githubusercontent.com/haganenoneko/haganenoneko.github.io/refs/heads/master/_posts/images/2024-11-06-22-27-41.png" alt="Wave phase" style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
+  <p style="margin: 0.5rem 0; color: #666; font-style: italic; font-size: 0.9em;">
+  <i>A phase is the position of a wave at a point in time (instant) on a waveform cycle. It provides a measurement of exactly where the wave is positioned within its cycle.  <a href=https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/3_phase_AC_waveform.svg/1024px-3_phase_AC_waveform.svg.png>Source.</a></i>
+  </p>
 </div>
 
 As a wave travels and spreads into space, points of equal phase (“equiphase”) spread out with it. A set of equiphase points is called a “[wavefront](https://en.wikipedia.org/wiki/Wavefront),“ and move in the same direction of the wave. Ripples are an example of wavefronts, although the trough or any other point along a wave can be chosen. To show the direction of wave travel, [*rays*](https://en.wikipedia.org/wiki/Ray_(optics)) are drawn that are perpendicular to the wavefronts. In other words, a wavefront is a surface of constant phase along the wave, and rays show the direction of propagation.
 
 > A ray is a line that is everywhere perpendicular (“normal”) to the surfaces of constant phase of the wave – wavefronts. Rays point in a *local* direction of the propagation of the wave. 
 
-<div><figure style=display: inline-block; vertical-align: top; text-align: center; margin: auto; ><center><img src=https://physicscatalyst.com/optics/fig1_int.png width=500/></center></figure><figcaption style=text-align: left; ><i>As waves move further from their source, the wavefronts become larger and the rays become straighter. At sufficiently far distance from the source, a similar-sized piece of the wavefront that was initially very curved (a) now appears flat (b). <a href=https://physicscatalyst.com/optics/fig1_int.png>Source. </a></i></figcaption></div>
+<div class="image-container" style="margin: 2rem auto; max-width: 800px; text-align: center;">
+  <img src="https://raw.githubusercontent.com/haganenoneko/haganenoneko.github.io/refs/heads/master/_posts/images/Wavefronts and rays.png" alt="Wavefronts and rays" style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
+  <p style="margin: 0.5rem 0; color: #666; font-style: italic; font-size: 0.9em;">
+  <i>As waves move further from their source, the wavefronts become larger and the rays become straighter. At sufficiently far distance from the source, a similar-sized piece of the wavefront that was initially very curved (a) now appears flat (b). <a href=https://physicscatalyst.com/optics/fig1_int.png>Source. </a></i>
+  </p>
+</div>
 
-<div><figure style=display: inline-block; vertical-align: top; text-align: center; margin: auto; ><center><img src=https://files.mtstatic.com/site_4539/43137/0?Expires=1702163313&Signature=sBFueuDkdVe2AR-FvGTyeOLeaQ9jEUwrr4gIpPvWIbRxpBAv1RdJTRyvcEYa2rWKv1s1jW0IaZQWWtxPXzPUhNGv7DjOIpraGVLNM7fvmcuzo-gmuBGNxQORSn0Zk9eQ-E76q1J1x2lkznQ3NMu9wb7iRBfCtcfmfKs9vVK2RTA_&Key-Pair-Id=APKAJ5Y6AV4GI7A555NA width=500/></center></figure><figcaption style=text-align: left; ><i>A drawing of two-dimensional wavefronts. Concentric circles are crests (solid lines) and troughs (dashed lines) emanate from the source at the center. The wavefronts spread as they move away from the source, like ripples in a pond.  <a href=https://files.mtstatic.com/site_4539/43137/0?Expires=1702163313&Signature=sBFueuDkdVe2AR-FvGTyeOLeaQ9jEUwrr4gIpPvWIbRxpBAv1RdJTRyvcEYa2rWKv1s1jW0IaZQWWtxPXzPUhNGv7DjOIpraGVLNM7fvmcuzo-gmuBGNxQORSn0Zk9eQ-E76q1J1x2lkznQ3NMu9wb7iRBfCtcfmfKs9vVK2RTA_&Key-Pair-Id=APKAJ5Y6AV4GI7A555NA>Source. </a></i></figcaption></div>
+<div class="image-container" style="margin: 2rem auto; max-width: 800px; text-align: center;">
+  <img src="https://raw.githubusercontent.com/haganenoneko/haganenoneko.github.io/refs/heads/master/_posts/images/Two-dimensional wavefronts.png" alt="Two-dimensional wavefronts" style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
+  <p style="margin: 0.5rem 0; color: #666; font-style: italic; font-size: 0.9em;">
+  <i>A drawing of two-dimensional wavefronts. Concentric circles are crests (solid lines) and troughs (dashed lines) emanate from the source at the center. The wavefronts spread as they move away from the source, like ripples in a pond.  <a href=https://files.mtstatic.com/site_4539/43137/0?Expires=1702163313&Signature=sBFueuDkdVe2AR-FvGTyeOLeaQ9jEUwrr4gIpPvWIbRxpBAv1RdJTRyvcEYa2rWKv1s1jW0IaZQWWtxPXzPUhNGv7DjOIpraGVLNM7fvmcuzo-gmuBGNxQORSn0Zk9eQ-E76q1J1x2lkznQ3NMu9wb7iRBfCtcfmfKs9vVK2RTA_&Key-Pair-Id=APKAJ5Y6AV4GI7A555NA>Source. </a></i>
+  </p>
+</div>
 
 The image above shows circular wavefronts propagating from a source. The furthest crest was the first crest generated from the source and, assuming the waves are standard sine functions, has phase $\pi/2$. The closest trough was generated half a cycle later, so it has a phase of $3\pi/2$. Thus, time “increases inward” from the furthest to the closest wavefront. Secondly, the distance between crests or between troughs is the wavelength. However, temporal information (frequency or period) is not available in the ‘top-down’ wavefront representation, which consequently also lacks information about amplitude. 
 
@@ -63,11 +81,23 @@ Sound is produced by the oscillation (back-and-forth vibration) of matter as a w
 
 Here, we will focus on the first effect, geometrical expansion. Dissipative effects of the medium include absorption or scattering by the medium. Absorption can be simply described as the energy of a wave being converted into heat in the medium, rather than causing oscillations. Scattering is the partial reflection of a wave by obstacles, which reduces the energy transmitted past the obstacle, although the total energy carried by both the scattered and unscattered parts of the wave remain unchanged. 
 
-<div><figure style=display: inline-block; vertical-align: top; text-align: center; margin: auto; ><center><img src=https://phys.libretexts.org/@api/deki/files/15058/2d_wave.gif?revision=4 height=400/></center></figure><figcaption style=text-align: left; ><i>(Top) Propagation of circular wavefronts at radii of wavelengths 1, 2, and 3. (Bottom) The amplitude of oscillating particles in the medium at wavefront radii of wavelengths 1, 2, and 3. <b>This is an animation that will not render in a PDF file. To see the animation, please go to: </b><a href=https://phys.libretexts.org/@api/deki/files/15058/2d_wave.gif?revision=4>Source. </a></i></figcaption></div>
+<div class="image-container" style="margin: 2rem auto; max-width: 800px; text-align: center;">
+  <img src="https://raw.githubusercontent.com/haganenoneko/haganenoneko.github.io/refs/heads/master/_posts/images/2d_wave.gif" alt="Two-dimensional wavefronts" style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
+  <p style="margin: 0.5rem 0; color: #666; font-style: italic; font-size: 0.9em;">
+  <i>(Top) Propagation of circular wavefronts at radii of wavelengths 1, 2, and 3. (Bottom) The amplitude of oscillating particles in the medium at wavefront radii of wavelengths 1, 2, and 3. <b>This is an animation that will not render in a PDF file. To see the animation, please go to: </b><a href=https://phys.libretexts.org/@api/deki/files/15058/2d_wave.gif?revision=4>Source. </a></i>
+  </p>
+</div>
 
 Consider a wave spreading outwards in two dimensions, like a circular ripple on a pond caused by a pebble. Each point in the medium contains a particle and, as the ripple propagates outward, it causes more and more particles to oscillate. Since the medium is uniform (water), particles are equally spaced everywhere so that the number of particles that the circular wave (ripple) encounters at any distance from the source (where the pebble was dropped) is proportional to its circumference: as the wave travels outward, the ripple grows bigger, and more particles oscillate.
 
 <div><figure style=display: inline-block; vertical-align: top; text-align: center; margin: auto; ><center><img src=https://i.imgur.com/u2iY6ZH.png  width=500/></center></figure><figcaption style=text-align: left; ><i>Waves spreading in 2D (left) and 3D (right). If the same amount of energy is distributed across a larger area, the intensity is necessarily lower at larger distances. <a href=https://i.imgur.com/u2iY6ZH.png >Source. </a></i></figcaption></div>
+
+<div class="image-container" style="margin: 2rem auto; max-width: 800px; text-align: center;">
+  <img src="https://raw.githubusercontent.com/haganenoneko/haganenoneko.github.io/refs/heads/master/_posts/images/Waves spreading in 2D and 3D.png" alt="Waves spreading in 2D and 3D" style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
+  <p style="margin: 0.5rem 0; color: #666; font-style: italic; font-size: 0.9em;">
+  <i>Waves spreading in 2D (left) and 3D (right). If the same amount of energy is distributed across a larger area, the intensity is necessarily lower at larger distances. From Ahlborn (2004).</i>
+  </p>
+</div>
 
 We can quantify the energy lost with wave propagation as follows:
 $$
@@ -131,7 +161,12 @@ Diffraction occurs when waves encounter an obstacle or opening. The extent and n
 1. If **the wavelength $\lambda$ is large compared to the width $d$ of the obstacle or opening**, the wave wrap around the obstacle or opening. As $\lambda$ increases relative to $d$, the amount of diffraction (sharpness of bending) increases. 
 2. If **the wavelength $\lambda$ is small compared to the width $d$ of the obstacle or opening,** no diffraction will occur.
 
-<div><figure style=display: inline-block; vertical-align: top; text-align: center; margin: auto; ><center><img src=https://qph.cf2.quoracdn.net/main-qimg-ff8a2b15426bddb50bff1e14bbb3abb0-pjlq width=500/></center></figure><figcaption style=text-align: left; ><i>Diffraction of water waves through a slit. In a large slit (left), the wavelength is relatively small, and does not diffract much, producing very few waves on the left and right sides beyond the slit. When the slit is small (right), the waves diffract more. <a href=https://qph.cf2.quoracdn.net/main-qimg-ff8a2b15426bddb50bff1e14bbb3abb0-pjlq>Source. </a></i></figcaption></div>
+<div class="image-container" style="margin: 2rem auto; max-width: 800px; text-align: center;">
+  <img src="https://raw.githubusercontent.com/haganenoneko/haganenoneko.github.io/refs/heads/master/_posts/images/Diffraction of water waves through a slit.png" alt="Diffraction of water waves through a slit" style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
+  <p style="margin: 0.5rem 0; color: #666; font-style: italic; font-size: 0.9em;">
+  <i>Diffraction of water waves through a slit. In a large slit (left), the wavelength is relatively small, and does not diffract much, producing very few waves on the left and right sides beyond the slit. When the slit is small (right), the waves diffract more. <a href=https://qph.cf2.quoracdn.net/main-qimg-ff8a2b15426bddb50bff1e14bbb3abb0-pjlq>Source. </a></i>
+  </p>
+</div>
 
 ## Duplex Theory of Temporal Representations of Sound
 
@@ -143,7 +178,13 @@ Locating sounds in the horizontal plane requires both ears and central neurons t
 
 For **high-frequency** sounds (2-20 kHz), the most important criterion is the interaural intensity difference (IID, also ILD for ‘interaural *level* difference’). This is because frequency and wavelength are inversely proportional, and diffraction only occurs when sound waves encounter obstacles or openings that are *larger* than their wavelengths. Thus, high frequency sounds will not diffract around the skull, which casts a ‘shadow’ on the other side. Hence, the ear on the opposite side of the sound source (contralateral ear) will hear the sound quieter. 
 
-<div><figure style=display: inline-block; vertical-align: top; text-align: center; margin: auto; ><center><img src=https://www.researchgate.net/profile/Volker-Willert/publication/6758197/figure/fig1/AS:277895172902917@1443266780430/Principles-of-the-appearance-of-interaural-time-and-interaural-level-differences-ITD-and.png width=500/></center></figure><figcaption style=text-align: left; ><i>Interaural differences used to distinguish low and high frequency sounds. <a href=https://www.researchgate.net/profile/Volker-Willert/publication/6758197/figure/fig1/AS:277895172902917@1443266780430/Principles-of-the-appearance-of-interaural-time-and-interaural-level-differences-ITD-and.png>Source. </a></i></figcaption></div>
+<div class="image-container" style="margin: 2rem auto; max-width: 800px; text-align: center;">
+  <img src="https://raw.githubusercontent.com/haganenoneko/haganenoneko.github.io/refs/heads/master/_posts/images/Interaural differences used to distinguish low and high frequency sounds.png" alt="Interaural differences used to distinguish low and high frequency sounds" style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
+  <p style="margin: 0.5rem 0; color: #666; font-style: italic; font-size: 0.9em;">
+  <i>Interaural differences used to distinguish low and high frequency sounds
+  <a href=https://www.researchgate.net/profile/Volker-Willert/publication/6758197/figure/fig1/AS:277895172902917@1443266780430/Principles-of-the-appearance-of-interaural-time-and-interaural-level-differences-ITD-and.png>Source. </a>
+  </i></p>
+</div>
 
 **Low-frequency** sounds (below ~2 kHz) diffract around the head, so both ears hear the same sound as having comparable intensity. Thus, rather than intensity, input from each ear is compared by measuring their temporal separation: the interaural delay (or, interaural time difference, ITD). 
 
@@ -155,32 +196,64 @@ $$
 	\approx 0.412 \ \text{ms}
 $$
 
-<div><figure style=display: inline-block; vertical-align: top; text-align: center; margin: auto; ><center><img src=https://people.ece.cornell.edu/land/courses/ece5760/FinalProjects/f2006/KimDorset/ECE576/Fig1.jpg  width=500/></center></figure><figcaption style=text-align: left; ><i>Angles of sound heard along the horizontal (azimuth) and vertical (elevation) planes. <a href=https://people.ece.cornell.edu/land/courses/ece5760/FinalProjects/f2006/KimDorset/ECE576/Fig1.jpg >Source. </a></i></figcaption></div>
+<div class="image-container" style="margin: 2rem auto; max-width: 800px; text-align: center;">
+  <img src="https://raw.githubusercontent.com/haganenoneko/haganenoneko.github.io/refs/heads/master/_posts/images/Angles of sound heard along the horizontal (azimuth) and vertical (elevation) planes..png" alt="Angles of sound heard along the horizontal (azimuth) and vertical (elevation) planes." style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
+  <p style="margin: 0.5rem 0; color: #666; font-style: italic; font-size: 0.9em;">
+  <i>Angles of sound heard along the horizontal (azimuth) and vertical (elevation) planes.
+  <a href=https://people.ece.cornell.edu/land/courses/ece5760/FinalProjects/f2006/KimDorset/ECE576/Fig1.jpg >Source. </a>
+  </i>
+  </p>
+</div> 
 
 ## Discussion on the Duplex Theory
 
 I would like you to think about implications and further ways to test sound localization. We will start with the following – the problem of localizing sounds in front and behind us. 
 ### The problem of front-back localization
 
-<div><figure style=display: inline-block; vertical-align: top; text-align: center; margin: auto; ><center><img src=https://chris-said.io/assets/2018_cone_of_confusion/front_right_and_back_right.png width=500/></center></figure><figcaption style=text-align: left; ><i>Sounds coming from the front-right and back-right sound similar in terms of intensity and timing. <a href=https://chris-said.io/assets/2018_cone_of_confusion/front_right_and_back_right.png>Source. </a></i></figcaption></div>
+<div class="image-container" style="margin: 2rem auto; max-width: 800px; text-align: center;">
+  <img src="https://raw.githubusercontent.com/haganenoneko/haganenoneko.github.io/refs/heads/master/_posts/images/Asymmetry of front-back localization.png" alt="Asymmetry of front-back localization" style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
+  <p style="margin: 0.5rem 0; color: #666; font-style: italic; font-size: 0.9em;">
+  <i>Sounds coming from the front-right and back-right sound similar in terms of intensity and timing. <a href=https://chris-said.io/assets/2018_cone_of_confusion/front_right_and_back_right.png>Source. </a></i>
+  </p>
+</div>
 
 The symmetry of the head and ears produces a **cone of confusion** (see below) – sound from the front-right and back-right (at equal angles from the median) should sound identical. This is true for any sounds that originate along the circumference of a cone positioned at any distance from the ear. We cannot tell whether such sounds come from – front, back, top, bottom, or anywhere else.
 
-<div><figure style=display: inline-block; vertical-align: top; text-align: center; margin: auto; ><center><img src=https://d3i71xaburhd42.cloudfront.net/a4724de2d29c998e33e92f96eaf53e615ce3fb00/19-Figure2.3-1.png width=500/></center></figure><figcaption style=text-align: left; ><i>The “cone of confusion” is a conical surface that extends out from the ear. Sounds originating from different locations on this surface all have the same interaural level difference and interaural time difference, so information provided by these cues is ambiguous. Adapted from <a href=https://www.psychology-lexicon.com/cms/glossary/36-glossary-c/8151-cone-of-confusion.html>psychology-lexicon</a>. <a href=https://d3i71xaburhd42.cloudfront.net/a4724de2d29c998e33e92f96eaf53e615ce3fb00/19-Figure2.3-1.png>Source. </a></i></figcaption></div>
+<div class="image-container" style="margin: 2rem auto; max-width: 800px; text-align: center;">
+  <img src="https://raw.githubusercontent.com/haganenoneko/haganenoneko.github.io/refs/heads/master/_posts/images/Cone of confusion.png" alt="Cone of confusion" style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
+  <p style="margin: 0.5rem 0; color: #666; font-style: italic; font-size: 0.9em;">
+  <i>The “cone of confusion” is a conical surface that extends out from the ear. Sounds originating from different locations on this surface all have the same interaural level difference and interaural time difference, so information provided by these cues is ambiguous. Adapted from <a href=https://www.psychology-lexicon.com/cms/glossary/36-glossary-c/8151-cone-of-confusion.html>psychology-lexicon</a>. <a href=https://d3i71xaburhd42.cloudfront.net/a4724de2d29c998e33e92f96eaf53e615ce3fb00/19-Figure2.3-1.png>Source. </a></i>
+  </p>
+</div>
 
 ### Resolving the cone of confusion
 
 While the ambiguities are negligible when the sound is very close or very far, we are still able to distinguish whether sounds at intermediate distances (e.g. 1-5 meters) are coming from the front or back, even if they fall along the cone of confusion. The major reason is that we tilt our heads. This shifts both the amplitude and phase of sound waves arriving at each ear, and shifts the axis of the head and cone of confusion so that ITDs and ILDs become noticeable.
 
-<div><figure style=display: inline-block; vertical-align: top; text-align: center; margin: auto; ><center><img src=https://d3i71xaburhd42.cloudfront.net/a4724de2d29c998e33e92f96eaf53e615ce3fb00/20-Figure2.4-1.png width=600/></center></figure><figcaption style=text-align: left; ><i>Head movement can be used to localize a sound source by shifting the interaural axis. <a href=https://d3i71xaburhd42.cloudfront.net/a4724de2d29c998e33e92f96eaf53e615ce3fb00/20-Figure2.4-1.png>Source. </a></i></figcaption></div>
+<div class="image-container" style="margin: 2rem auto; max-width: 800px; text-align: center;">
+  <img src="https://raw.githubusercontent.com/haganenoneko/haganenoneko.github.io/refs/heads/master/_posts/images/Head movement shifts the interaural axis.png" alt="Head movement shifts the interaural axis" style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
+  <p style="margin: 0.5rem 0; color: #666; font-style: italic; font-size: 0.9em;">
+  <i>Head movement can be used to localize a sound source by shifting the interaural axis. <a href=https://d3i71xaburhd42.cloudfront.net/a4724de2d29c998e33e92f96eaf53e615ce3fb00/20-Figure2.4-1.png>Source. </a></i>
+  </p>
+</div>
 
 However, even without moving our heads, we can still distinguish sounds on the front-back axis quite well. This is primarily because of **reflection**. Most of the sounds we hear do not enter our ear canals directly. Rather, most sound is reflected off the curves and folds of the external ear, delaying their entry into the inner ear. Reflecting waves have different properties from those that enter the ear directly, and by learning these differences, we can localize sounds without relying on head movement.
 
-<div><figure style=display: inline-block; vertical-align: top; text-align: center; margin: auto; ><center><img src=https://www.researchgate.net/publication/344453802/figure/fig5/AS:942225085173760@1601655374056/The-pinna-and-reflecting-ridges-1-and-2-that-determine-horizontal-and-vertical-sound.png width=500/></center></figure><figcaption style=text-align: left; ><i>Reflection of sound waves off the pinna and ridges (1, 2) provide cues on horizontal and vertical sound direction.  <a href=https://www.researchgate.net/publication/344453802/figure/fig5/AS:942225085173760@1601655374056/The-pinna-and-reflecting-ridges-1-and-2-that-determine-horizontal-and-vertical-sound.png>Source. </a></i></figcaption></div>
+<div class="image-container" style="margin: 2rem auto; max-width: 800px; text-align: center;">
+  <img src="https://raw.githubusercontent.com/haganenoneko/haganenoneko.github.io/refs/heads/master/_posts/images/Reflection of sound waves off the ear provides cues.png" alt="Reflection of sound waves off the ear provides cues" style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
+  <p style="margin: 0.5rem 0; color: #666; font-style: italic; font-size: 0.9em;">
+  <i>Reflection of sound waves off the pinna and ridges (1, 2) provide cues on horizontal and vertical sound direction.  <a href=https://www.researchgate.net/publication/344453802/figure/fig5/AS:942225085173760@1601655374056/The-pinna-and-reflecting-ridges-1-and-2-that-determine-horizontal-and-vertical-sound.png>Source. </a></i>
+  </p>
+</div>
 
 As sound waves strike a listener, they diffract and reflect around the head and shoulders. The nature and extent of diffraction and reflection is thus dependent on the size and shape of the head, ears, mouth, and shoulders, all of which transform the input and affect how it is perceived, boosting some frequencies and lowering others. In other words, the output of diffraction and reflection is unique to each individual and transforms sound inputs in a frequency-dependent manner. This unique transformation is called the **Head-Related Transfer Function (HRTF)**.
 
-<div><figure style=display: inline-block; vertical-align: top; text-align: center; margin: auto; ><center><img src=https://chris-said.io/assets/2018_cone_of_confusion/cone_and_hrtf.png width=500/></center></figure><figcaption style=text-align: left; ><i>The cone wraps around the head along the vertical plane, hence the repeating label “Back” on the graph on the right. If you had this HRTF (right), you might think a sound is coming from the front if it has more high frequency power than you’d expect. <a href=https://chris-said.io/assets/2018_cone_of_confusion/cone_and_hrtf.png>Source. </a></i></figcaption></div>
+<div class="image-container" style="margin: 2rem auto; max-width: 800px; text-align: center;">
+  <img src="https://raw.githubusercontent.com/haganenoneko/haganenoneko.github.io/refs/heads/master/_posts/images/HRTF and cone of confusion.png" alt="HRTF and cone of confusion" style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
+  <p style="margin: 0.5rem 0; color: #666; font-style: italic; font-size: 0.9em;">
+  <i>The cone wraps around the head along the vertical plane, hence the repeating label “Back” on the graph on the right. If you had this HRTF (right), you might think a sound is coming from the front if it has more high frequency power than you’d expect. <a href=https://chris-said.io/assets/2018_cone_of_confusion/cone_and_hrtf.png>Source. </a></i>
+  </p>
+</div>
 
 ## References.
 
