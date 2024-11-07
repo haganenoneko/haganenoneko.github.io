@@ -10,9 +10,21 @@ tags:
   - physics
 ---
 
-# Basic Review of Wave Physics (No Math)
-
 *This is an excerpt from a set of lesson plans I wrote a while ago for a group of (very keen) middle school science students. I am attending a cardiac ultrasound workshop tomorrow, so I dug this out of my dusty pre-medical school Obsidian vault for review. [Link to associated Google Slides](https://docs.google.com/presentation/d/1Tcq6rbhcRuNeVMxd4RQAh0C6ytmEl0LTRFKkKFHUgMg/edit?usp=sharing).*
+
+**Table of Contents**
+
+- [The Physics of Sound](#the-physics-of-sound)
+	- [Sound is produced by waves traveling through a medium](#sound-is-produced-by-waves-traveling-through-a-medium)
+	- [How waves move](#how-waves-move)
+	- [How waves move matter](#how-waves-move-matter)
+	- [How waves change direction](#how-waves-change-direction)
+- [Duplex Theory of Temporal Representations of Sound](#duplex-theory-of-temporal-representations-of-sound)
+- [Discussion on the Duplex Theory](#discussion-on-the-duplex-theory)
+	- [The problem of front-back localization](#the-problem-of-front-back-localization)
+	- [Resolving the cone of confusion](#resolving-the-cone-of-confusion)
+- [References.](#references)
+
 
 ## The Physics of Sound
 
