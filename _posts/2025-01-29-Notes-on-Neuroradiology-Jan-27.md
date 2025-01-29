@@ -10,14 +10,11 @@ tags:
   - radiology
 ---
 
-# Notes on Neuroradiology Jan 27
-
-- [Notes on Neuroradiology Jan 27](#notes-on-neuroradiology-jan-27)
-  - [The bright signal seen on diffusion-weighted imaging (DWI) of acute infarcts persists for approximately 10 to 14 days](#the-bright-signal-seen-on-diffusion-weighted-imaging-dwi-of-acute-infarcts-persists-for-approximately-10-to-14-days)
-  - [Persistent areas of hypodensity in the brain after an infarct may result from gliosis or brain necrosis replaced by CSF.](#persistent-areas-of-hypodensity-in-the-brain-after-an-infarct-may-result-from-gliosis-or-brain-necrosis-replaced-by-csf)
-  - [Simple definitions of T1- vs T2-weighted MRI](#simple-definitions-of-t1--vs-t2-weighted-mri)
-  - [DWI MRI allows visualization of acute cerebral infarcts earlier than conventional MRI](#dwi-mri-allows-visualization-of-acute-cerebral-infarcts-earlier-than-conventional-mri)
-  - [Use of CT for detecting hemorrhage versus ischemia](#use-of-ct-for-detecting-hemorrhage-versus-ischemia)
+- [The bright signal seen on diffusion-weighted imaging (DWI) of acute infarcts persists for approximately 10 to 14 days](#the-bright-signal-seen-on-diffusion-weighted-imaging-dwi-of-acute-infarcts-persists-for-approximately-10-to-14-days)
+- [Persistent areas of hypodensity in the brain after an infarct may result from gliosis or brain necrosis replaced by CSF.](#persistent-areas-of-hypodensity-in-the-brain-after-an-infarct-may-result-from-gliosis-or-brain-necrosis-replaced-by-csf)
+- [Simple definitions of T1- vs T2-weighted MRI](#simple-definitions-of-t1--vs-t2-weighted-mri)
+- [DWI MRI allows visualization of acute cerebral infarcts earlier than conventional MRI](#dwi-mri-allows-visualization-of-acute-cerebral-infarcts-earlier-than-conventional-mri)
+- [Use of CT for detecting hemorrhage versus ischemia](#use-of-ct-for-detecting-hemorrhage-versus-ischemia)
 
 
 ## The bright signal seen on diffusion-weighted imaging (DWI) of acute infarcts persists for approximately 10 to 14 days
