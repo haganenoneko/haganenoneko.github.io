@@ -14,3 +14,14 @@
 .container .content {
     display: none;
     padding : 5px;
+}
+
+strong, b {
+  color: rgb(3, 3, 199);
+  background-color: rgba(152, 152, 242, 0.10);
+}
+
+i, em {
+  color: rgb(125, 18, 48) !important;
+  background-color: rgba(125, 18, 48, 0.10);
+}
