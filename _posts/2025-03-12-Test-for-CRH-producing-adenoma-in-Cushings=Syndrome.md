@@ -13,6 +13,7 @@ tags:
 - [Test for CRH producing adenoma in Cushings-Syndrome](#test-for-crh-producing-adenoma-in-cushings-syndrome)
   - [Workup for Cushing's Syndrome](#workup-for-cushings-syndrome)
   - [Application to peripheral CRH-secreting tumours](#application-to-peripheral-crh-secreting-tumours)
+    - [Summary table](#summary-table)
   - [References](#references)
 
 # Test for CRH producing adenoma in Cushings-Syndrome
@@ -28,7 +29,7 @@ Cushing's Syndrome is defined by features of glucocorticoid excess. Most commonl
 
 ## Workup for Cushing's Syndrome
 
-The standard workup for the differential diagnosis of Cushing's Syndrome is shown below [[2]](#ref-2). Note, however, that it does not explicitly mention CRH-secreting tumours due to their rarity. However, the same tests that are effective in distinguishing Cushing's disease (ACTH-secreting pituitary adenomas) from ectopic sources of ACTH, such as neuroendocrine tumours (e.g. multiple endocrine neoplasias) and small cell lung cancer. Briefly, the workup proceeds as follows:
+The standard workup for the differential diagnosis of Cushing's Syndrome is shown below [[2]](#ref-2). Note, however, that it does not explicitly mention CRH-secreting tumours due to their rarity. However, these are susceptible to the same tests that are effective in distinguishing Cushing's disease (ACTH-secreting pituitary adenomas) from ectopic sources of ACTH, such as neuroendocrine tumours (e.g. multiple endocrine neoplasias) and small cell lung cancer. Briefly, the workup proceeds as follows:
 
 <div class="image-container" style="margin: 2rem auto; max-width: 800px; text-align: center;"><img src="https://raw.githubusercontent.com/haganenoneko/haganenoneko.github.io/refs/heads/master/_posts/images/2025-03-12-11-41-21.png" alt="2025-03-12-11-41-21.png" style="max-width: 50%; height: auto; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" /> <p style="margin: 0.5rem 0; color: #666; font-style: italic; font-size: 0.9em;">Tumours responsible for ectopic ACTH secretion</p></div>
 
@@ -52,13 +53,30 @@ The standard workup for the differential diagnosis of Cushing's Syndrome is show
 
 The same tests can be applied to CRH-secreting tumours. For example:
 - Initial biochemical screening will reveal **high levels of ACTH and cortisol**
-- Due to their ectopic origin, **neither low- nor high-dose DST will suppress ACTH levels**
+- Due to their ectopic origin, **neither low- nor high-dose DST will effectively suppress ACTH levels**. 
+  - Granted, there may be some suppression, as both CRH and dexamethasone act on corticotrophs.
 - With **CRH stimulation**, ACTH levels may or may not increase above baseline. 
   - The case for a *lack* of elevation would be that corticotrophs are already fully stimulated. 
   - However, corticotrophs may also undergo hyperplasia, which may allow them to respond to CRH stimulation with elevated ACTH release. 
   - Indeed, Greenspan states that this can cause false positives in CRH stimulation testing [[3]](#ref-3).
 - Imaging may reveal **corticotroph hyperplasia**, as mentioned above.
 - With IPSS, an ectopic CRH-producing tumour produces a high central-to-peripheral ratio of ACTH, which is analogous to Cushing's disease. **Therefore, while a high IPS:P ratio strongly suggests CD, it does not exclude the possibility of a CRH-secreting tumour**.
+
+### Summary table
+
+Courtesy of ChatGPT (hence, caution):
+
+| Test                     | **Ectopic Cushing's (ECS)** | **Cushing's Disease (CD)** | **CRH-Secreting Ectopic Tumor** |
+|--------------------------|------------------------|------------------------|-----------------------------|
+| **Plasma ACTH** | **↑↑** (markedly high, often >20 pmol/L or >100 pg/mL) | **↑** (moderately high, usually 5–20 pmol/L or 20–80 pg/mL) | **↑↑** (markedly high, often similar to ECS) |
+| **24h Urine Free Cortisol (UFC)** | **↑↑↑** (often >4× ULN) | **↑** (mild to moderate) | **↑** (mild to marked) |
+| **Midnight Salivary Cortisol** | **↑↑** | **↑** | **↑** |
+| **Low-Dose Dexamethasone Suppression Test (LDDST, 1 mg overnight or 2 mg over 48h)** | **No suppression** | **No suppression** (or slight suppression) | **No suppression** |
+| **High-Dose Dexamethasone Suppression Test (HDDST, 8 mg overnight or 2 mg q6h for 48h)** | **No suppression** | **Suppression >50%** in most cases | **Variable suppression** (some cases suppress due to pituitary-like response) |
+| **CRH Stimulation Test (ACTH & Cortisol response to CRH injection)** | **No response** (flat ACTH & cortisol) | **Exaggerated ACTH & cortisol rise** | **Exaggerated ACTH & cortisol rise** |
+| **Inferior Petrosal Sinus Sampling (IPSS, basal ACTH & CRH-stimulated ACTH lateralization)** | **No central-to-peripheral ACTH gradient** (<2 at baseline, <3 after CRH) | **Central-to-peripheral ACTH gradient ≥2 (baseline) or ≥3 (after CRH)** | **Central-to-peripheral gradient** (like Cushing's disease) |
+| **Basic Imaging (Pituitary MRI, Chest/Abdomen CT/MRI)** | **Often normal pituitary; ectopic source (lung, pancreas, thymus) seen on CT/MRI** | **Pituitary microadenoma in ~50%** | **Corticotroph hyperplasia, ectopic mass** |
+
 
 ## References
 1. <a id="ref-1"></a> Gallo-Payet, N., Roussy, J. F., Chagnon, F., Roberge, C., & Lesur, O. (2008). Hypothalamic–pituitary–adrenal axis multiple and organ dysfunction syndrome in critical illness: A special focus on arginine-vasopressin and apelin. Journal of Organ Dysfunction, 4(4), 216–229. https://doi.org/10.1080/17471060802339711
