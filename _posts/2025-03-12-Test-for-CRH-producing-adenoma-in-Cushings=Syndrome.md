@@ -10,6 +10,11 @@ tags:
   - HPA
 ---
 
+- [Test for CRH producing adenoma in Cushings-Syndrome](#test-for-crh-producing-adenoma-in-cushings-syndrome)
+  - [Workup for Cushing's Syndrome](#workup-for-cushings-syndrome)
+  - [Application to peripheral CRH-secreting tumours](#application-to-peripheral-crh-secreting-tumours)
+  - [References](#references)
+
 # Test for CRH producing adenoma in Cushings-Syndrome
 
 Cushing's Syndrome is defined by features of glucocorticoid excess. Most commonly, these include: central obesity, rounded face, facial plethora, decreased libido. In humans, corticotropin releasing hormone (CRH) is the hypothalamic releasing hormone that controls the release of adrenocorticotropic hormone (ACTH) and thus glucocorticoid production. In rare instances, CRH-secreting tumours can arise and result in Cushing's Syndrome.
