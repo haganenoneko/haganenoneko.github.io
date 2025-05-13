@@ -10,7 +10,7 @@ redirect_from:
 
 *Welcome to my homepage.* 
 
-I am currently a medical student at the University of British Columbia in Vancouver, Canada. My inicipient interests in medicine currently include radiology and pediatrics, although these are highly variable. At the moment, I am using this site to record random thoughts and notes from my readings and studies. These can be accessed at [../posts/](Posts).
+I am currently a 2nd-year medical student at the University of British Columbia in Vancouver, Canada. My inicipient interests in medicine currently include endocrinology, oncology, and hematology. At the moment, I am using this site to record random thoughts and notes from my readings and studies. These can be accessed at [../posts/](Posts).
 
 In the past, I completed a Master's thesis on the kinetics of cardiac pacemaker channels [\[1](#ref-1)-[3\]](#ref-3), and I briefly supported a project on post-operative decline in children with severe neurological deficits [[4]](#ref-4). 
 
