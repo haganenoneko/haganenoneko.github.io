@@ -11,6 +11,13 @@ tags:
 
 # Reflecting on MS2.1 and 2025
 
+**Contents**
+- [Reflecting on MS2.1 and 2025](#reflecting-on-ms21-and-2025)
+  - [My approach to studying in medical school](#my-approach-to-studying-in-medical-school)
+  - [Resources I found helpful](#resources-i-found-helpful)
+    - [Comments on Anki](#comments-on-anki)
+  - [Summary and Resolutions](#summary-and-resolutions)
+
 The goal of this post is to reflect on and summarize some of my takeaways about medical school that I've learned since my [last post eight months ago](./2025-05-13-five-things-for-ms1.md). But before that, here is a summary of my Anki use in 2025:
 
 <div class="image-container" style="margin: 2rem auto; max-width: 800px; text-align: center;">
