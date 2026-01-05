@@ -6,6 +6,7 @@ categories:
 tags:
   - MS1
   - random
+  - Anki
 ---
 
 **Contents**
